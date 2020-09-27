@@ -1,0 +1,2 @@
+# SomeJavascript
+Example of improvement
